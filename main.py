@@ -12,7 +12,7 @@ def init():
     line.set_data([], [])
     return line,
 
-# animation function.  This is called sequentially
+# animation function.  This is call ed sequentially
 def animate(i):
     x = np.linspace(0, 2, 1000)
     y = np.sin(2 * np.pi * (x - 0.01 * i))
