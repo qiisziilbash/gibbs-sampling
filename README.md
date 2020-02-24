@@ -2,7 +2,7 @@
 This is a demonstration of gibbs sampling in a bivariate normal distribution
 
 
-## How to use: \
+## How to use: 
 $ git clone https://github.com/qiisziilbash/gibbs-sampling.git \
 $ cd gibbs-sampling \
 $ virtualenv venv \
